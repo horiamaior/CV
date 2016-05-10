@@ -1,3 +1,8 @@
 *.synctex
 ACADEMIC cv/My CV tex/cv.bbl
 *.aux
+ACADEMIC cv/My CV tex/cv.synctex.gz
+
+ACADEMIC cv/My CV tex/cv.out
+
+ACADEMIC cv/My CV tex/cv.log
